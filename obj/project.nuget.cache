@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J37omiW9nPODt2ayl6zf6SzAdg2GMw9Sbqx4UwXTg7KIdelTaex7St8EmuHf7XKfl5CbrN3gjdfyliquHSulyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programação\\C#\\teste\\YTDownloader\\YTDownloader\\YTDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\youtubeexplode\\6.3.1\\youtubeexplode.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
